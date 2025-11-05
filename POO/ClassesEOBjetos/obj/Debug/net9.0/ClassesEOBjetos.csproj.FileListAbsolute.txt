@@ -1,0 +1,14 @@
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\bin\Debug\net9.0\ClassesEOBjetos.exe
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\bin\Debug\net9.0\ClassesEOBjetos.deps.json
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\bin\Debug\net9.0\ClassesEOBjetos.runtimeconfig.json
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\bin\Debug\net9.0\ClassesEOBjetos.dll
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\bin\Debug\net9.0\ClassesEOBjetos.pdb
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.AssemblyInfoInputs.cache
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.AssemblyInfo.cs
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.csproj.CoreCompileInputs.cache
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.dll
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\refint\ClassesEOBjetos.dll
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.pdb
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ClassesEOBjetos.genruntimeconfig.cache
+C:\Users\53808948876\Desktop\Back-end moura\POO\ClassesEOBjetos\obj\Debug\net9.0\ref\ClassesEOBjetos.dll
